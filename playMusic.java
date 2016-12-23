@@ -151,7 +151,7 @@ public class playMusic extends JFrame {
 					data[row][col] = cell.getContents();
 
 				}
-				String[] columnNames = { "Time", "Sub" };
+				String[] columnNames = { "Thoi Gian", "Loi bai hat" };
 				model = new DefaultTableModel(data, columnNames);
 				table.setModel(model);
 			}

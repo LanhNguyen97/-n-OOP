@@ -28,7 +28,7 @@ public class playMusic extends JFrame {
 	public static MediaPlayer play;
 	public static int ktra = 0;
 	public static int hangChon, hangCuoi, ktraThread;
-	public static String thoigianbd, thoigiankt = "2:56", thoigiankt1;
+	public static String thoigianbd, thoigiankt = "3:27", thoigiankt1;
 	public static Thread ttrinh1, ttrinh2;
 	public static DefaultTableModel model;
 	public static String time1, time2;
